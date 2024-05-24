@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0455b56b-6830-4618-ba99-7591377eddd8" name="Changes" comment="Practica de arrays sencillos con java">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +38,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "agregar1",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -58,7 +59,7 @@
       <updated>1716348428884</updated>
       <workItem from="1716348429918" duration="1073000" />
       <workItem from="1716396793480" duration="174000" />
-      <workItem from="1716567130349" duration="4034000" />
+      <workItem from="1716567130349" duration="4537000" />
     </task>
     <task id="LOCAL-00001" summary="Practica de arrays sencillos con java">
       <option name="closed" value="true" />

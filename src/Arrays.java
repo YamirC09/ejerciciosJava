@@ -37,5 +37,7 @@ public class Arrays {
             suma += numeros[contador];
         }
         System.out.println("El promedio de numeros es: " + suma/(float)numeros.length);
+
+        System.out.println("Esta linea le agregue para probar Git");
     }
 }
